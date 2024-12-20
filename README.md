@@ -64,15 +64,16 @@
 
     <section>
         <h2>About Me</h2>
-        <img src="two.jpg"width= 200 height=200 alt="Profile Picture" />
-        <p>Hello! My name is John Lloyd N. Ambrad. I am passionate about various hobbies that enrich my life and help me stay connected with the world around me.</p>
+        <img src="erning.jpg"width= 200 height=200 alt="Profile Picture" />
+        <p>Hello! My name is Ernesto G. Maguad lll. I am passionate about various hobbies that enrich my life and help me stay connected with the world around me.</p>
         
         <div class="hobbies">
             <h3>My Hobbies</h3>
             <ul>
-                <li>Playing Video Games</li>
+                <li>playing billiards</li>
                 <li>Watching Movies</li>
                 <li>Exploring Nature</li>
+                <li>playing basketball and volleyball>
             </ul>
         </div>
     </section>
@@ -89,25 +90,22 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>Mother, Elizabeth N. Ambrad</td>
-                    <td>55</td>
+                    <td>Mother, Sarah G. Maguad</td>
+                    <td>48</td>
                 </tr>
                 <tr>
-                    <td>Father, Juliano Ambrad</td>
-                    <td>65</td>
+                    <td>Father, Orlando P. Maguad</td>
+                    <td>59</td>
                 </tr>
                 <tr>
-                    <td>Sister, Babylyn Ambrad</td>
-                    <td>30</td>
+                    <td>Sister, Angelica G. Maguad</td>
+                    <td>20</td>
                 </tr>
                 <tr>
-                    <td>Brother, Big-J Ambrad</td>
-                    <td>28</td>
+                    <td>little Sister, Orlean G. Maguad</td>
+                    <td>11</td>
                 </tr>
                 <tr>
-                    <td>Brother, John Aldrin Ambrad</td>
-                    <td>26</td>
-                </tr>
             </tbody>
         </table>
     </section>
